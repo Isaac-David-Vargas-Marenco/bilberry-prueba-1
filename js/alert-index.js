@@ -11,5 +11,5 @@ form_tag.addEventListener("submit", function(event){
 
 
 
-alert("your name:"+name+"your number"+number+"your email"+email+"your section"+"your menssage"+message);
+alert("your name:"+name+"your number"+number+"your email"+email+"your select"+select+"your menssage"+message);
 })
