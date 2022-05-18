@@ -7,6 +7,7 @@ form_tag.addEventListener("submit", function(event){
  var number = document.getElementById("number_bliberry").value;
  var email = document.getElementById("email_bilberry").value;
  var select = document.getElementById("select_bilberry").value;
+ 
  var message = document.getElementById("textarea_bilberry").value;
 
 
